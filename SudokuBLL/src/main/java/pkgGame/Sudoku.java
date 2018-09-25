@@ -2,6 +2,7 @@ package pkgGame;
 
 import pkgHelper.LatinSquare;
 
+
 /**
  * Sudoku - This class extends LatinSquare, adding methods, constructor to
  * handle Sudoku logic
